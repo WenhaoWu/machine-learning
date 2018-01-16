@@ -7,9 +7,9 @@ $ virtualenv --system-site-packages -p python3 tensorflow
 
 $ source ./tensorflow/bin/activate
 
-$ easy_install -U pip
+(tensorflow)$ easy_install -U pip
 
-$ pip install -r requirements.txt
+(tensorflow)$ pip install -r requirements.txt
 ```
 
 ## Run examples in Jupyter notebook
