@@ -9,5 +9,5 @@
 pyvenv.cfg
 .tensorflow
 .ipynb_checkpoints
-./tensorflow/*
+./tensorflow/share
 pip-selfcheck.json
