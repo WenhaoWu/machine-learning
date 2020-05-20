@@ -55,7 +55,7 @@ funcsigs==1.0.2
 gprof2dot==2016.10.13
 gunicorn==19.7.1
 html5lib==0.9999999
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.5
 ipwhois==0.15.1
 ipykernel==4.7.0
