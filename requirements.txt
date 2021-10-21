@@ -4,7 +4,7 @@ appdirs==1.4.3
 Appium-Python-Client==0.22
 appnope==0.1.0
 asn1crypto==0.22.0
-Babel==2.4.0
+Babel==2.9.1
 behave==1.2.5
 billiard==3.5.0.2
 bleach==1.5.0
